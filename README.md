@@ -1,7 +1,7 @@
 # The Dynamic Landscape of Ecdysone-Responsive Chromatin Accessibility
 
 Analysis and existing figure scripts for the 20E_ATAC study, combining code provided by S.C. and J.Y.H.
-
+[![DOI](https://zenodo.org/badge/1435719114.svg)](https://doi.org/10.5281/zenodo.23728698)
 ## Organization
 
 | Folder | Contents |
