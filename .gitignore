@@ -26,3 +26,10 @@ data/
 results/
 logs/
 output_*/
+*.pyc
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+input_data/
+output_results/
